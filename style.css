@@ -1,0 +1,66 @@
+#b{
+	background-image: bec.jpg;
+	
+}
+
+.h{
+	background:#ff4d4d;
+	padding:10px;
+	border:2px solid black;
+	
+}
+#d{
+	height:480px;
+	width:450px;
+	background:#dcdde1;
+	border:3px solid black;
+	border-radius:25px;
+	
+	
+}
+.img{
+	
+	height:150px;
+	width:150px;
+	
+	
+}
+#form{
+	
+	height:30px;
+	width:400px;
+	background:  #0dc691;
+	padding:3px;
+	margin:1px;
+	text-align: center;
+	font-family:Agency FB;
+	font-size: 20px;
+	
+	
+}
+#button{
+	margin: 2px;
+  text-align: center;
+  padding: 2px;
+  height: 30px;
+  width: 150px;
+  background: #f8c471;
+  border:3px solid Black;
+  border-radius:25px;
+  font-family: Agency FB;
+  font-size: 20px;
+	
+	
+}
+.notice{
+  background-color: silver;
+  text-decoration-color: blue;
+}
+#r{
+	height:363px;
+	width:450px;
+	background:#dcdde1;
+	border:3px solid black;
+	border-radius:25px;
+}
+
